@@ -222,6 +222,20 @@ hl {
     background-color: var(--bg);
 }
 
+.background {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    opacity: 0;
+    pointer-events: none;
+    object-fit: cover;
+    transition: opacity 1s ease-in-out;
+}
+
+.background.active {
+    opacity: 1;
+}
+
 .promptCont {
     display: flex;
     justify-content: center;
