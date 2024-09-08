@@ -1,26 +1,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@700&display=swap");
 
 @font-face {
-    font-family: "highway_gothicregular";
-    src: url("./assets/fonts/hwygoth-webfont.woff2") format("woff2"),
-        url("./assets/fonts/hwygoth-webfont.woff") format("woff");
+    font-family: "Comic Neue";
+    src: url("./fonts/comicneue-angular-bold-webfont.woff2") format("woff2"),
+        url("./fonts/comicneue-angular-bold-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "comic_neue_angularbold";
-    src: url("./assets/fonts/comicneue-angular-bold-webfont.woff2")
-            format("woff2"),
-        url("./assets/fonts/comicneue-angular-bold-webfont.woff") format("woff");
+    font-family: "Highway Gothic";
+    src: url("./fonts/hwygoth-webfont.woff2") format("woff2"),
+        url("./fonts/hwygoth-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "tomo_bossablack";
-    src: url("./assets/fonts/tomo_bossa_black-webfont.woff2") format("woff2"),
-        url("./assets/fonts/tomo_bossa_black-webfont.woff") format("woff");
+    font-family: "Riffic";
+    src: url("./fonts/rifficfree-bold-webfont.woff2") format("woff2"),
+        url("./fonts/rifficfree-bold-webfont.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
