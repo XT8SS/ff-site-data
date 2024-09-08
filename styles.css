@@ -195,12 +195,16 @@ hl {
     text-align: center;
 }
 
-.font-hg {
-    font-family: "highway_gothicregular";
+.font-cn {
+    font-family: "Comic Neue";
 }
 
-.font-cn {
-    font-family: "comic_neue_angularbold";
+.font-hg {
+    font-family: "Highway Gothic";
+}
+
+.font-rf {
+    font-family: "Riffic";
 }
 
 .ff-item {
@@ -290,7 +294,7 @@ hl {
     border-radius: 1vh;
     background-color: var(--dark-opacity-2);
     color: var(--light);
-    font-family: "highway_gothicregular";
+    font-family: "Highway Gothic";
     font-size: 0.75vh;
     z-index: 2;
 }
