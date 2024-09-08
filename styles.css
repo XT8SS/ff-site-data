@@ -1,0 +1,355 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@700&display=swap");
+
+@font-face {
+    font-family: "highway_gothicregular";
+    src: url("./assets/fonts/hwygoth-webfont.woff2") format("woff2"),
+        url("./assets/fonts/hwygoth-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "comic_neue_angularbold";
+    src: url("./assets/fonts/comicneue-angular-bold-webfont.woff2")
+            format("woff2"),
+        url("./assets/fonts/comicneue-angular-bold-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "tomo_bossablack";
+    src: url("./assets/fonts/tomo_bossa_black-webfont.woff2") format("woff2"),
+        url("./assets/fonts/tomo_bossa_black-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --dark: #070e16;
+    --dark-opacity-1: #070e16c7;
+    --dark-opacity-2: #070e1680;
+    --dark-opacity-3: #070e1645;
+    --dark-opacity-4: #070e162c;
+    --transparent: #00000000;
+    --light: #e1e1e1;
+    --light-opacity-1: #e1e1e1c7;
+    --light-opacity-2: #e1e1e180;
+    --light-opacity-3: #e1e1e145;
+    --light-opacity-4: #e1e1e12c;
+    --ff-sea: #718e9a;
+    --ff-sand: #ccc598;
+    --ff-dull-sand: #9e9a63;
+    --ff-duller-sand: #848066;
+    --ff-violet: #9d80a2;
+    --ff-blue: #2868b4;
+    --ff-red: #b63232;
+    --ff-yellow: #c7cb48;
+    --ff-green: #3fb632;
+    --ff-purple: #9f48cb;
+    --ff-orange: #d16a26;
+}
+
+* {
+    box-sizing: border-box !important;
+    padding: 0;
+    margin: 0;
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-user-drag: none;
+}
+
+body {
+    display: flex;
+    background-color: var(--dark);
+}
+
+iconify-icon {
+    transition: opacity 0.2s;
+}
+
+button,
+a {
+    all: unset;
+    cursor: pointer;
+    transition: background 0.15s, opacity 0.15s;
+}
+
+button:disabled,
+input:disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
+button:not(.no-bg) {
+    background-color: var(--dark-opacity-3);
+}
+
+button:not(.no-bg-change, .light-hover):hover,
+button:not(.no-bg-change, .light-hover):focus,
+a.bg-change:not(.no-bg-change, .light-hover):hover,
+a.bg-change:not(.no-bg-change, .light-hover):focus {
+    background-color: var(--dark-opacity-2) !important;
+}
+
+button.light-hover:not(.no-bg-change):hover,
+button.light-hover:not(.no-bg-change):focus,
+a.bg-change.light-hover:not(.no-bg-change):hover,
+a.bg-change.light-hover:not(.no-bg-change):focus {
+    background-color: var(--dark-opacity-3) !important;
+}
+
+input {
+    all: unset;
+    transition: background 0.2s;
+}
+
+input[type="checkbox"]:not(:disabled) {
+    cursor: pointer;
+}
+
+input::placeholder {
+    color: var(--dark-opacity-2);
+}
+
+a {
+    border-radius: 1rem;
+    text-decoration: none;
+    transition: background 0.2s;
+}
+
+a:hover,
+a:focus {
+    outline: none;
+    text-decoration: underline;
+}
+
+hr {
+    width: 100%;
+    background-color: var(--dark-opacity-3);
+    border-color: var(--dark-opacity-3);
+}
+
+hl {
+    padding: 0.25rem 0.75rem;
+    background-color: var(--dark-opacity-3);
+    border-radius: 0.75rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.fd-col {
+    flex-direction: column;
+}
+
+.fd-row {
+    flex-direction: row;
+}
+
+.fw {
+    flex-wrap: wrap;
+}
+
+.fjc-center {
+    justify-content: center;
+}
+
+.fai-center {
+    align-items: center;
+}
+
+.rg-1 {
+    row-gap: 1rem;
+}
+
+.cg-1 {
+    column-gap: 1rem;
+}
+
+.pos-abs {
+    position: absolute;
+}
+
+.pos-rel {
+    position: relative;
+}
+
+.smaller-fs {
+    font-size: 0.85em;
+}
+
+.border-tp {
+    border: 1rem var(--dark-opacity-2) solid;
+}
+
+.br-1 {
+    border-radius: 1rem;
+}
+
+.bs {
+    box-shadow: 0 0 2.5rem var(--dark-opacity-1);
+}
+
+.ta-center {
+    text-align: center;
+}
+
+.font-hg {
+    font-family: "highway_gothicregular";
+}
+
+.font-cn {
+    font-family: "comic_neue_angularbold";
+}
+
+.ff-item {
+    background-color: var(--dark-opacity-4);
+    border-top: 0.5rem solid var(--dark-opacity-4);
+    border-left: 0.5rem solid var(--dark-opacity-4);
+    border-radius: 1rem;
+}
+
+.ff-bg {
+    background: repeating-linear-gradient(
+        -45deg,
+        #00000008,
+        #00000008 0.75rem,
+        var(--bg) 0,
+        var(--bg) 2.5rem
+    );
+    background-color: var(--bg);
+}
+
+.promptCont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    backdrop-filter: blur(0.75rem);
+    -webkit-backdrop-filter: blur(0.75rem);
+    z-index: 10;
+}
+
+.promptCont > div {
+    --bg: var(--ff-sand);
+    background: repeating-linear-gradient(
+        -45deg,
+        #00000008,
+        #00000008 1rem,
+        var(--bg) 0,
+        var(--bg) 5rem
+    );
+    background-color: var(--bg);
+    display: flex;
+    padding: 4rem;
+    border-radius: 2rem;
+    font-size: 3.75rem;
+    text-align: center;
+}
+
+.promptCont .title {
+    font-size: 1.15em;
+    margin-bottom: 2.5rem;
+}
+
+.promptCont #contents {
+    scrollbar-width: 1.5rem;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    margin: 1vh;
+    padding: 1.5vh;
+    border-radius: 1vh;
+    background-color: var(--dark-opacity-2);
+    color: var(--light);
+    font-family: "highway_gothicregular";
+    font-size: 0.75vh;
+    z-index: 2;
+}
+
+.tooltip {
+    position: absolute;
+    padding: 1.25rem;
+    opacity: 0;
+    visibility: hidden;
+    background-color: var(--dark);
+    color: var(--light);
+    border-radius: 0.5rem;
+    font-size: 2.35rem;
+    font-weight: normal;
+    text-align: center;
+    pointer-events: none;
+    transition: visibility 0.15s, opacity 0.15s;
+    z-index: 3;
+}
+
+.tooltip::after {
+    content: "";
+    position: absolute;
+    padding: 0.8rem;
+    background-color: var(--dark);
+    rotate: 45deg;
+    z-index: -1;
+}
+
+.tooltip#top {
+    left: 50%;
+    bottom: calc(100% + 2.5rem);
+    translate: -50%;
+}
+
+.tooltip#top::after {
+    left: 50%;
+    top: calc(100% - 1rem);
+    translate: -50%;
+}
+
+.tooltip#right {
+    top: 50%;
+    left: calc(100% + 2.5rem);
+    translate: 0 -50%;
+}
+
+.tooltip#right::after {
+    top: 50%;
+    right: calc(100% - 1rem);
+    translate: 0 -50%;
+    z-index: 0;
+}
+
+.tooltip#left {
+    top: 50%;
+    right: calc(100% + 2.5rem);
+    translate: 0 -50%;
+}
+
+.tooltip#left::after {
+    top: 50%;
+    left: calc(100% - 1rem);
+    translate: 0 -50%;
+}
+
+.tooltip#bottom {
+    top: calc(100% + 2.5rem);
+    left: 50%;
+    translate: -50%;
+}
+
+.tooltip#bottom::after {
+    top: -0.75rem;
+    left: 50%;
+    translate: -50%;
+}
+
+*:hover > .tooltip,
+*:focus > .tooltip {
+    opacity: 1;
+    visibility: visible;
+}
