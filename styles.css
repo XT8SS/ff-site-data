@@ -299,6 +299,10 @@ hl {
     z-index: 2;
 }
 
+.info img {
+    height: 5vh;
+}
+
 .info#credits {
     column-gap: 1vh;
 }
