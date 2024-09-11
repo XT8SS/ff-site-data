@@ -299,6 +299,40 @@ hl {
     z-index: 2;
 }
 
+.info#credits {
+    column-gap: 1vh;
+}
+
+.info#donate {
+    right: 0;
+    padding: 1vh;
+}
+
+.info#changelog {
+    bottom: 0;
+    font-size: 4vh;
+}
+
+.info#changelog #unseen {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    font-size: 6.5vh;
+    pointer-events: none;
+}
+
+.info#version {
+    right: 0;
+    bottom: 0;
+}
+
+.info#policy {
+    right: 0;
+    bottom: 7vh;
+    padding: 1vh;
+    font-size: 4vh;
+}
+
 .tooltip {
     position: absolute;
     padding: 1.25rem;
