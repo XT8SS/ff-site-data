@@ -295,7 +295,7 @@ hl {
     background-color: var(--dark-opacity-2);
     color: var(--light);
     font-family: "Highway Gothic";
-    font-size: 0.75vh;
+    font-size: 2.5vh;
     z-index: 2;
 }
 
