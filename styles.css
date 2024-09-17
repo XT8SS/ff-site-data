@@ -114,7 +114,6 @@ input::placeholder {
 a {
     border-radius: 1rem;
     text-decoration: none;
-    transition: background 0.2s;
 }
 
 a:hover,
