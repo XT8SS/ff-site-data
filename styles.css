@@ -71,7 +71,8 @@ button,
 a {
     all: unset;
     cursor: pointer;
-    transition: background 0.15s, opacity 0.15s, box-shadow 0.15s, border 0.3s;
+    transition: background 0.15s, opacity 0.15s, box-shadow 0.15s, color 0.15s,
+        border 0.3s;
 }
 
 button:disabled,
