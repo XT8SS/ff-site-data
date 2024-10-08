@@ -232,7 +232,7 @@ hl {
     opacity: 0;
     pointer-events: none;
     object-fit: cover;
-    transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out, filter 0.3s;
 }
 
 .background.active {
