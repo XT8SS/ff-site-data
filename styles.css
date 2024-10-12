@@ -101,7 +101,7 @@ a.bg-change.light-hover:not(.no-bg-change):focus {
 
 input {
     all: unset;
-    transition: background 0.2s;
+    transition: background 0.2s, opacity 0.2s;
 }
 
 input[type="checkbox"]:not(:disabled) {
