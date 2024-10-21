@@ -133,6 +133,8 @@ hl {
     padding: 0.25rem 0.75rem;
     background-color: var(--dark-opacity-3);
     border-radius: 0.75rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
 }
 
 .flex {
