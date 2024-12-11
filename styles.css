@@ -261,7 +261,7 @@ hl {
     z-index: 10;
 }
 
-.promptCont > div {
+.promptCont > div:not(.ignoreWrapper) {
     --bg: var(--ff-sand);
     background: repeating-linear-gradient(
         -45deg,
