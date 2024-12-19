@@ -291,6 +291,11 @@ hl {
     scrollbar-width: 1.5rem;
 }
 
+.promptCont .mainBtn {
+    padding: 1.5rem;
+    font-size: 4rem;
+}
+
 .info {
     display: flex;
     align-items: center;
