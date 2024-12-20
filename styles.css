@@ -287,6 +287,10 @@ hl {
     margin-top: 2.5rem;
 }
 
+.promptCont hr {
+    margin-bottom: 2.5rem;
+}
+
 .promptCont .contents {
     scrollbar-width: 1.5rem;
 }
