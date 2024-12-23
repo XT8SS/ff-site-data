@@ -197,6 +197,10 @@ hl {
     text-align: center;
 }
 
+.font-ms {
+    font-family: monospace;
+}
+
 .font-cn {
     font-family: "Comic Neue";
 }
