@@ -199,6 +199,7 @@ hl {
 
 .font-ms {
     font-family: monospace;
+    font-weight: bold;
 }
 
 .font-cn {
