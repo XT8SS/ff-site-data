@@ -283,7 +283,7 @@ hl {
     margin-bottom: 2.5rem;
 }
 
-.promptCont .title ~ .title {
+.promptCont .title ~ .title:not(.title + hr + .title) {
     margin-top: 2.5rem;
 }
 
