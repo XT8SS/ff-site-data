@@ -1,0 +1,30 @@
+{
+    "Site Developer": {
+        "userList": ["xt"],
+        "icon": {
+            "iconifyName": "solar:verified-check-bold",
+            "color": "#004D40"
+        }
+    },
+    "Game Developer": {
+        "userList": ["spectrabox", "gorbachelli"],
+        "icon": {
+            "iconifyName": "solar:verified-check-bold",
+            "color": "#4A148C"
+        }
+    },
+    "Contributor": {
+        "userList": ["basil", "eturnes", "moonblasterbow", "tc_2"],
+        "icon": {
+            "iconifyName": "solar:verified-check-bold",
+            "color": "#1A237E"
+        }
+    },
+    "User": {
+        "userList": [],
+        "icon": {
+            "iconifyName": "mingcute:user-2-fill",
+            "color": "black"
+        }
+    }
+}
