@@ -3,21 +3,21 @@
         "userList": ["xt"],
         "icon": {
             "iconifyName": "solar:verified-check-bold",
-            "color": "#004D40"
+            "color": "#673ab7"
         }
     },
     "Game Developer": {
         "userList": ["spectrabox", "gorbachelli"],
         "icon": {
             "iconifyName": "solar:verified-check-bold",
-            "color": "#4A148C"
+            "color": "#b71c1c"
         }
     },
     "Contributor": {
         "userList": ["basil", "eturnes", "moonblasterbow", "tc_2"],
         "icon": {
             "iconifyName": "solar:verified-check-bold",
-            "color": "#1A237E"
+            "color": "#1565C0"
         }
     },
     "User": {
