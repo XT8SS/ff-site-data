@@ -273,6 +273,93 @@ hl {
     font-size: 1.15em;
 }
 
+.pageWarning {
+    max-width: 50vw;
+    padding: 2.5rem;
+    margin: auto;
+    font-size: 4.25rem;
+    z-index: 0;
+}
+
+.lockedNotice {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: var(--dark);
+    color: var(--light);
+    opacity: 0.75;
+}
+
+.signupAndLogin {
+    row-gap: 2.5rem;
+    width: 50rem;
+}
+
+.signupAndLogin #switchMethod {
+    padding: 0.25rem 0.75rem;
+    border-width: 0.5rem;
+}
+
+.signupAndLogin .formInputs > div {
+    background-color: var(--dark-opacity-4);
+}
+
+.signupAndLogin .formInputs iconify-icon {
+    font-size: 4.5rem;
+    margin: 1rem;
+}
+
+.signupAndLogin input {
+    height: 6.5rem;
+    width: 100%;
+    background-color: var(--transparent);
+}
+
+.username iconify-icon {
+    font-size: 1.25em;
+}
+
+.changelog {
+    row-gap: 2.5rem;
+    max-height: 80rem;
+    width: 75rem;
+    max-width: 80vw;
+    padding: 0 2rem;
+    overflow: auto;
+    list-style: none;
+}
+
+.credits {
+    row-gap: 1.5rem;
+}
+
+.credits iconify-icon#discord,
+bl {
+    color: #5865f2;
+}
+
+.credits iconify-icon {
+    font-size: 4rem;
+}
+
+.credits a {
+    color: var(--ff-blue);
+}
+
+.support {
+    row-gap: 2.5rem;
+    max-width: 75rem;
+}
+
+.support a {
+    padding: 1.5rem;
+}
+
+.support img {
+    height: 7.5rem;
+}
+
 .promptCont {
     display: flex;
     justify-content: center;
@@ -355,6 +442,11 @@ hl {
     padding: 1vh;
 }
 
+.info#account {
+    background-color: var(--dark-opacity-1);
+    filter: invert();
+}
+
 .info#changelog {
     font-size: 4vh;
 }
@@ -377,6 +469,33 @@ hl {
     bottom: 7vh;
     padding: 1vh;
     font-size: 4vh;
+}
+
+.toasts {
+    row-gap: 1vh;
+    top: 0;
+    right: 0;
+    margin: 2.5vh;
+    font-size: 2.5vh;
+    color: var(--light);
+    z-index: 5;
+}
+
+.toasts.centered {
+    left: 50%;
+    right: unset;
+    margin: 2.5vh 0;
+    translate: -50% 0;
+}
+
+.toast {
+    align-self: flex-end;
+    padding: 1vh;
+    background-color: var(--dark-opacity-2);
+}
+
+.toasts.centered .toast {
+    align-self: center;
 }
 
 .tooltip {
