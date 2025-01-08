@@ -330,6 +330,38 @@ hl {
     list-style: none;
 }
 
+.changelog hr:first-of-type {
+    display: none;
+}
+
+.changelogItem:first-of-type #cliVersion::after {
+    content: " — Latest";
+}
+
+.changelogItem #cliVersion,
+.changelogItem #cliInfo {
+    text-align: left;
+}
+
+.changelogItem #cliVersion,
+.changelogItem #cliDate {
+    width: 50%;
+}
+
+.changelogItem #cliVersion {
+    font-size: 1.15em;
+}
+
+.changelogItem #cliDate {
+    text-align: right;
+    color: var(--dark-opacity-2);
+}
+
+.changelogItem #cliInfo {
+    width: 100%;
+    color: var(--dark-opacity-1);
+}
+
 .credits {
     row-gap: 1.5rem;
 }
@@ -358,6 +390,15 @@ bl {
 
 .support img {
     height: 7.5rem;
+}
+
+.policy {
+    row-gap: 1.5rem;
+    max-width: 90rem;
+}
+
+.policy b {
+    font-size: 1.1em;
 }
 
 .promptCont {
