@@ -82,7 +82,7 @@ input:disabled {
     pointer-events: none;
 }
 
-button:not(.no-bg) {
+button:not(.no-bg, .info) {
     background-color: var(--dark-opacity-3);
 }
 
@@ -379,19 +379,6 @@ bl {
     color: var(--ff-blue);
 }
 
-.support {
-    row-gap: 2.5rem;
-    max-width: 75rem;
-}
-
-.support a {
-    padding: 1.5rem;
-}
-
-.support img {
-    height: 7.5rem;
-}
-
 .policy {
     row-gap: 1.5rem;
     max-width: 90rem;
@@ -479,7 +466,7 @@ bl {
     column-gap: 1vh;
 }
 
-.info#donate {
+a.info:has(img) {
     padding: 1vh;
 }
 
