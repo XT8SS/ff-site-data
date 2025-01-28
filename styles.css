@@ -82,7 +82,8 @@ input:disabled {
     pointer-events: none;
 }
 
-button:not(.no-bg, .info) {
+button:not(.no-bg),
+.info {
     background-color: var(--dark-opacity-3);
 }
 
@@ -451,7 +452,6 @@ bl {
     margin: 1vh;
     padding: 1.5vh;
     border-radius: 1vh;
-    background-color: var(--dark-opacity-2);
     color: var(--light);
     font-family: "Highway Gothic";
     font-size: 2.5vh;
