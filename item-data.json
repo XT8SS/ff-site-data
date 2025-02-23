@@ -8183,17 +8183,17 @@
                 {
                     "name": "Threefold Advance (slash)",
                     "types": ["meleeDmg"],
-                    "base": 135,
+                    "base": 130,
                     "multipliers": {
-                        "meleeDmg": 2.15
+                        "meleeDmg": 0.725
                     }
                 },
                 {
                     "name": "Threefold Advance (total)",
                     "types": ["meleeDmg"],
-                    "base": 405,
+                    "base": 390,
                     "multipliers": {
-                        "meleeDmg": 6.45
+                        "meleeDmg": 2.175
                     },
                     "cd": 8
                 }
