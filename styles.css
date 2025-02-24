@@ -245,7 +245,7 @@ hl {
 
 .textBtn:hover,
 .textBtn:focus {
-    color: var(--dark-opacity-1);
+    color: var(--dark-opacity-1) !important;
 }
 
 .background {
