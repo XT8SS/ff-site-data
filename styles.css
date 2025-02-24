@@ -205,15 +205,15 @@ hl {
 }
 
 .font-cn {
-    font-family: "Comic Neue";
+    font-family: "Comic Neue" !important;
 }
 
 .font-hg {
-    font-family: "Highway Gothic";
+    font-family: "Highway Gothic" !important;
 }
 
 .font-rf {
-    font-family: "Riffic";
+    font-family: "Riffic" !important;
 }
 
 .ff-item {
