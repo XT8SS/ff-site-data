@@ -389,6 +389,19 @@ bl {
     font-size: 1.1em;
 }
 
+.support {
+    row-gap: 1.25rem;
+    max-width: 75rem;
+}
+
+.support a {
+    padding: 1.5rem;
+}
+
+.support img {
+    height: 7.5rem;
+}
+
 .promptCont {
     display: flex;
     justify-content: center;
