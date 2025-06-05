@@ -514,6 +514,7 @@ a.info:has(img) {
 
 .toasts {
     row-gap: 1vh;
+    position: fixed;
     top: 0;
     right: 0;
     margin: 2.5vh;
