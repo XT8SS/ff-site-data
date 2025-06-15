@@ -248,6 +248,23 @@ hl {
     color: var(--dark-opacity-1) !important;
 }
 
+.hoverIcon {
+    height: 100%;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    color: var(--light);
+    background-color: var(--dark-opacity-2);
+    font-size: 7.5rem;
+    opacity: 0;
+    translate: -50% -50%;
+}
+
+:hover > .hoverIcon,
+:focus > .hoverIcon {
+    opacity: 1;
+}
+
 .background {
     position: fixed;
     height: 100vh;
