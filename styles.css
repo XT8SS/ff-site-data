@@ -199,11 +199,6 @@ hl {
     text-align: center;
 }
 
-.font-ms {
-    font-family: monospace;
-    font-weight: bold;
-}
-
 .font-cn {
     font-family: "Comic Neue" !important;
 }
@@ -212,8 +207,17 @@ hl {
     font-family: "Highway Gothic" !important;
 }
 
+.font-ms {
+    font-family: monospace !important;
+    font-weight: bold;
+}
+
 .font-rf {
     font-family: "Riffic" !important;
+}
+
+.font-ss {
+    font-family: "Source Sans 3" !important;
 }
 
 .ff-item {
