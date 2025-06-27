@@ -6468,7 +6468,7 @@
                         "magicDmg": 0.5
                     }
                 },
-                "Eternal Form (shot + blast)": {
+                "Eternal Form (total)": {
                     "types": ["magicDmg"],
                     "base": 225,
                     "multipliers": {
