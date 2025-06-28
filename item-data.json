@@ -8174,7 +8174,7 @@
         },
         "Void Spike Ultradagger": {
             "special": "Void Needle",
-            "types": ["armor"],
+            "types": ["armor", "meleeDmg"],
             "abilities": {
                 "Basic Attack": {
                     "types": ["meleeDmg"],
@@ -8184,8 +8184,12 @@
                     }
                 },
                 "Void Needle": {
+                    "types": ["armor", "meleeDmg"],
                     "base": 935,
-                    "formula": "100% Melee - 562.5% Armor",
+                    "multipliers": {
+                        "armor": -5.625,
+                        "meleeDmg": 1
+                    },
                     "cd": 3
                 }
             },
