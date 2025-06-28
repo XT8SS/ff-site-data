@@ -6618,7 +6618,6 @@
             "link": "Wicked_Junk_Spellbook"
         },
         "Bronze Dagger": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6640,7 +6639,6 @@
             "link": "Bronze_Dagger"
         },
         "Bronze Greatsword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6662,7 +6660,6 @@
             "link": "Bronze_Greatsword"
         },
         "Bronze Rapier": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6684,7 +6681,6 @@
             "link": "Bronze_Rapier"
         },
         "Bronze Scimitar": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6706,7 +6702,6 @@
             "link": "Bronze_Scimitar"
         },
         "Iron Dagger": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6728,7 +6723,6 @@
             "link": "Iron_Dagger"
         },
         "Iron Greatsword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6750,7 +6744,6 @@
             "link": "Iron_Greatsword"
         },
         "Iron Rapier": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6772,7 +6765,6 @@
             "link": "Iron_Rapier"
         },
         "Iron Scimitar": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6794,7 +6786,6 @@
             "link": "Iron_Scimitar"
         },
         "Cobalt Dagger": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6816,7 +6807,6 @@
             "link": "Cobalt_Dagger"
         },
         "Cobalt Greatsword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6838,7 +6828,6 @@
             "link": "Cobalt_Greatsword"
         },
         "Cobalt Rapier": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6860,7 +6849,6 @@
             "link": "Cobalt_Rapier"
         },
         "Cobalt Scimitar": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6882,7 +6870,6 @@
             "link": "Cobalt_Scimitar"
         },
         "Titanium Dagger": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6904,7 +6891,6 @@
             "link": "Titanium_Dagger"
         },
         "Titanium Greatsword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6926,7 +6912,6 @@
             "link": "Titanium_Greatsword"
         },
         "Titanium Rapier": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6948,7 +6933,6 @@
             "link": "Titanium_Rapier"
         },
         "Titanium Scimitar": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6970,7 +6954,6 @@
             "link": "Titanium_Scimitar"
         },
         "Gold Dagger": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -6992,7 +6975,6 @@
             "link": "Gold_Dagger"
         },
         "Gold Greatsword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7014,7 +6996,6 @@
             "link": "Gold_Greatsword"
         },
         "Gold Rapier": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7036,7 +7017,6 @@
             "link": "Gold_Rapier"
         },
         "Gold Scimitar": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7058,7 +7038,6 @@
             "link": "Gold_Scimitar"
         },
         "Onyx Dagger": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7080,7 +7059,6 @@
             "link": "Onyx_Dagger"
         },
         "Onyx Greatsword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7102,7 +7080,6 @@
             "link": "Onyx_Greatsword"
         },
         "Onyx Rapier": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7124,7 +7101,6 @@
             "link": "Onyx_Rapier"
         },
         "Onyx Scimitar": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7176,7 +7152,6 @@
             "link": "Advanced_Rapier"
         },
         "Ancient Sword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7273,7 +7248,6 @@
             "link": "Angel_Greatsword"
         },
         "Blacksmith's Hammer": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7295,7 +7269,6 @@
             "link": "Blacksmith's_Hammer"
         },
         "Buzzing Sword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7317,7 +7290,6 @@
             "link": "Buzzing_Sword"
         },
         "Contramagic Blade": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7525,7 +7497,6 @@
             "link": "Featherblade"
         },
         "Frail Wooden Sword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7631,7 +7602,6 @@
             "link": "Grandsword"
         },
         "Grass Rapier": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7690,7 +7660,6 @@
             "link": "Great_Scimitar"
         },
         "Hammer Knight's Hammer": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7801,7 +7770,6 @@
             "link": "Hook_Scythe"
         },
         "Inferno Hammer": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -7823,7 +7791,6 @@
             "link": "Inferno_Hammer"
         },
         "Inferno Sword": {
-            "special": "None",
             "types": ["meleeDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -8204,7 +8171,6 @@
             "link": "Void_Spike_Ultradagger"
         },
         "Crossbow": {
-            "special": "None",
             "types": ["rangedDmg"],
             "abilities": {
                 "Crossbow Bolt": {
@@ -8270,7 +8236,6 @@
             "link": "Dragon_King's_Lance"
         },
         "Frontier Stargun": {
-            "special": "None",
             "types": ["rangedDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -8322,7 +8287,6 @@
             "link": "Funky_Driftlander"
         },
         "Gilded Rifle": {
-            "special": "None",
             "types": ["rangedDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -8374,7 +8338,6 @@
             "link": "Gunfists"
         },
         "Hunting Rifle": {
-            "special": "None",
             "types": ["rangedDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -8396,7 +8359,6 @@
             "link": "Hunting_Rifle"
         },
         "Marksman's Rifle": {
-            "special": "None",
             "types": ["rangedDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -8418,7 +8380,6 @@
             "link": "Marksman's_Rifle"
         },
         "Pellet Gun": {
-            "special": "None",
             "types": ["rangedDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -8440,7 +8401,6 @@
             "link": "Pellet_Gun"
         },
         "Pipe Rifle": {
-            "special": "None",
             "types": ["rangedDmg"],
             "abilities": {
                 "Basic Attack": {
@@ -8849,7 +8809,6 @@
             "link": "Salamander"
         },
         "Gnome Rocket Launcher": {
-            "special": "None",
             "types": [],
             "abilities": {
                 "Basic Attack": {
