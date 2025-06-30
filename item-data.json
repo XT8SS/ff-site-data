@@ -6276,7 +6276,8 @@
                     "base": 500,
                     "multipliers": {
                         "magicDmg": 1
-                    }
+                    },
+                    "stamina": 2.4
                 },
                 "Caster Form": {
                     "types": ["magicDmg"],
@@ -6284,7 +6285,7 @@
                     "multipliers": {
                         "magicDmg": 1
                     },
-                    "cd": 3
+                    "stamina": 3.4
                 }
             },
             "cost": {
@@ -6306,7 +6307,8 @@
                     "base": 500,
                     "multipliers": {
                         "magicDmg": 1
-                    }
+                    },
+                    "stamina": 2.7
                 },
                 "Brain Bash (bash)": {
                     "types": ["magicDmg"],
@@ -6321,6 +6323,7 @@
                     "multipliers": {
                         "magicDmg": 3
                     },
+                    "stamina": 3,
                     "cd": 16
                 }
             },
@@ -6355,6 +6358,7 @@
                     "multipliers": {
                         "magicDmg": 4.8
                     },
+                    "stamina": 4,
                     "cd": 24
                 }
             },
@@ -6378,7 +6382,8 @@
                     "base": 65,
                     "multipliers": {
                         "magicDmg": 1
-                    }
+                    },
+                    "stamina": 2
                 },
                 "Echo of the Void (1st blast)": {
                     "types": ["magicDmg"],
@@ -6400,6 +6405,7 @@
                     "multipliers": {
                         "magicDmg": 5.25
                     },
+                    "stamina": 4,
                     "cd": 12
                 },
                 "+ HP per attack": {
@@ -6429,7 +6435,8 @@
                     "base": 60,
                     "multipliers": {
                         "magicDmg": 1
-                    }
+                    },
+                    "stamina": 2
                 },
                 "Meteor Blast": {
                     "types": ["magicDmg"],
@@ -6437,6 +6444,7 @@
                     "multipliers": {
                         "magicDmg": 2.5
                     },
+                    "stamina": 4,
                     "cd": 26
                 }
             },
@@ -6459,7 +6467,8 @@
                     "base": 140,
                     "multipliers": {
                         "magicDmg": 1
-                    }
+                    },
+                    "stamina": 2
                 },
                 "Eternal Form (blast)": {
                     "types": ["magicDmg"],
@@ -6474,6 +6483,7 @@
                     "multipliers": {
                         "magicDmg": 1.5
                     },
+                    "stamina": 2,
                     "cd": 20
                 }
             },
@@ -6496,7 +6506,8 @@
                     "base": 100,
                     "multipliers": {
                         "magicDmg": 0.875
-                    }
+                    },
+                    "stamina": 1.6
                 },
                 "Smite": {
                     "types": ["magicDmg"],
@@ -6504,6 +6515,7 @@
                     "multipliers": {
                         "magicDmg": 3
                     },
+                    "stamina": 4,
                     "cd": 22
                 }
             },
@@ -6526,14 +6538,16 @@
                     "base": 100,
                     "multipliers": {
                         "magicDmg": 0.95
-                    }
+                    },
+                    "stamina": 2
                 },
                 "Summoned Plant": {
                     "types": ["magicDmg"],
                     "base": 50,
                     "multipliers": {
                         "magicDmg": 0.33
-                    }
+                    },
+                    "stamina": 2
                 },
                 "Solar Beam": {
                     "base": "260 + (100 * Charge)",
@@ -6589,7 +6603,8 @@
                     "base": 90,
                     "multipliers": {
                         "magicDmg": 1
-                    }
+                    },
+                    "stamina": 2
                 },
                 "Rain of Toasters (toaster)": {
                     "types": ["magicDmg"],
@@ -6604,6 +6619,7 @@
                     "multipliers": {
                         "magicDmg": 12.5
                     },
+                    "stamina": 4,
                     "cd": 26
                 }
             },
@@ -6625,7 +6641,8 @@
                     "base": 15,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.35
                 }
             },
             "cost": {
@@ -6646,7 +6663,8 @@
                     "base": 42,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.65
                 }
             },
             "cost": {
@@ -6667,7 +6685,8 @@
                     "base": 32,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2
                 }
             },
             "cost": {
@@ -6688,7 +6707,8 @@
                     "base": 22,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.3
                 }
             },
             "cost": {
@@ -6709,7 +6729,8 @@
                     "base": 30,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.4
                 }
             },
             "cost": {
@@ -6730,7 +6751,8 @@
                     "base": 92,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.8
                 }
             },
             "cost": {
@@ -6751,7 +6773,8 @@
                     "base": 66,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.05
                 }
             },
             "cost": {
@@ -6772,7 +6795,8 @@
                     "base": 47,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.35
                 }
             },
             "cost": {
@@ -6793,7 +6817,8 @@
                     "base": 48,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.45
                 }
             },
             "cost": {
@@ -6814,7 +6839,8 @@
                     "base": 142,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3
                 }
             },
             "cost": {
@@ -6835,7 +6861,8 @@
                     "base": 101,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.1
                 }
             },
             "cost": {
@@ -6856,7 +6883,8 @@
                     "base": 70,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.45
                 }
             },
             "cost": {
@@ -6877,7 +6905,8 @@
                     "base": 66,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.5
                 }
             },
             "cost": {
@@ -6898,7 +6927,8 @@
                     "base": 192,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.2
                 }
             },
             "cost": {
@@ -6919,7 +6949,8 @@
                     "base": 138,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.2
                 }
             },
             "cost": {
@@ -6940,7 +6971,8 @@
                     "base": 94,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.55
                 }
             },
             "cost": {
@@ -6961,7 +6993,8 @@
                     "base": 83,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.55
                 }
             },
             "cost": {
@@ -6982,7 +7015,8 @@
                     "base": 242,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.3
                 }
             },
             "cost": {
@@ -7003,7 +7037,8 @@
                     "base": 172,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.3
                 }
             },
             "cost": {
@@ -7024,7 +7059,8 @@
                     "base": 117,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.65
                 }
             },
             "cost": {
@@ -7045,7 +7081,8 @@
                     "base": 100,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.65
                 }
             },
             "cost": {
@@ -7066,7 +7103,8 @@
                     "base": 294,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.5
                 }
             },
             "cost": {
@@ -7087,7 +7125,8 @@
                     "base": 210,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.3
                 }
             },
             "cost": {
@@ -7108,7 +7147,8 @@
                     "base": 142,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.7
                 }
             },
             "cost": {
@@ -7130,7 +7170,8 @@
                     "base": 275,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.3
                 },
                 "Rebound Strike": {
                     "types": ["meleeDmg"],
@@ -7138,6 +7179,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 2.2,
                     "cd": 4
                 }
             },
@@ -7159,7 +7201,8 @@
                     "base": 128,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.7
                 }
             },
             "cost": {
@@ -7181,7 +7224,8 @@
                     "base": 455,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.2
                 },
                 "Greater Uppercut": {
                     "types": ["meleeDmg"],
@@ -7189,6 +7233,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 3.3,
                     "cd": 8
                 }
             },
@@ -7211,7 +7256,8 @@
                     "base": 500,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Holy Blast (swing)": {
                     "types": ["meleeDmg"],
@@ -7234,6 +7280,7 @@
                         "magicDmg": 1,
                         "meleeDmg": 1
                     },
+                    "stamina": 3.3,
                     "cd": 16
                 }
             },
@@ -7255,7 +7302,8 @@
                     "base": 305,
                     "multipliers": {
                         "meleeDmg": 1.4
-                    }
+                    },
+                    "stamina": 3.6
                 }
             },
             "cost": {
@@ -7276,7 +7324,8 @@
                     "base": 143,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.7
                 }
             },
             "cost": {
@@ -7297,7 +7346,8 @@
                     "base": 133,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.55
                 }
             },
             "cost": {
@@ -7319,7 +7369,8 @@
                     "base": 350,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.1
                 },
                 "Dark Charge": {
                     "types": ["meleeDmg"],
@@ -7327,6 +7378,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 2.5,
                     "cd": 12
                 }
             },
@@ -7349,7 +7401,8 @@
                     "base": 500,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Critical Rush (backward dash)": {
                     "types": ["meleeDmg"],
@@ -7371,6 +7424,7 @@
                     "multipliers": {
                         "meleeDmg": 2
                     },
+                    "stamina": 3.3,
                     "cd": 10
                 }
             },
@@ -7393,7 +7447,8 @@
                     "base": 500,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Demonfire Blitz (slash)": {
                     "types": ["meleeDmg"],
@@ -7416,6 +7471,7 @@
                         "magicDmg": 1,
                         "meleeDmg": 1
                     },
+                    "stamina": 3.3,
                     "cd": 14
                 }
             },
@@ -7438,7 +7494,8 @@
                     "base": 420,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Fantastic Beam": {
                     "types": ["magicDmg"],
@@ -7446,6 +7503,7 @@
                     "multipliers": {
                         "magicDmg": 1
                     },
+                    "stamina": 3.5,
                     "cd": 16
                 }
             },
@@ -7468,7 +7526,8 @@
                     "base": 230,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.7
                 },
                 "Glide Spin (slash)": {
                     "types": ["meleeDmg"],
@@ -7483,6 +7542,7 @@
                     "multipliers": {
                         "meleeDmg": 2
                     },
+                    "stamina": 3.2,
                     "cd": 10
                 }
             },
@@ -7504,7 +7564,8 @@
                     "base": 12,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.45
                 }
             },
             "cost": {
@@ -7526,7 +7587,8 @@
                     "base": 575,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.9
                 },
                 "Eternity Beam (swing)": {
                     "types": ["meleeDmg"],
@@ -7558,6 +7620,7 @@
                         "magicDmg": 1.98,
                         "meleeDmg": 2.2
                     },
+                    "stamina": 3.3,
                     "cd": 18
                 }
             },
@@ -7580,7 +7643,8 @@
                     "base": 333,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Grand Smash": {
                     "types": ["meleeDmg"],
@@ -7588,6 +7652,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 3.5,
                     "cd": 8
                 }
             },
@@ -7609,7 +7674,8 @@
                     "base": 205,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.3
                 }
             },
             "cost": {
@@ -7631,7 +7697,8 @@
                     "base": 115,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.75
                 },
                 "Threefold Advance (slash)": {
                     "types": ["meleeDmg"],
@@ -7646,6 +7713,7 @@
                     "multipliers": {
                         "meleeDmg": 2.175
                     },
+                    "stamina": 2.9,
                     "cd": 8
                 }
             },
@@ -7667,7 +7735,8 @@
                     "base": 240,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3
                 }
             },
             "cost": {
@@ -7689,7 +7758,8 @@
                     "base": 550,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Magma Scorch (spin)": {
                     "types": ["meleeDmg"],
@@ -7719,6 +7789,7 @@
                         "magicDmg": 2,
                         "meleeDmg": 1
                     },
+                    "stamina": 3.3,
                     "cd": 28
                 }
             },
@@ -7741,7 +7812,8 @@
                     "base": 118,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.6
                 },
                 "Double Spin (spin)": {
                     "types": ["meleeDmg"],
@@ -7756,6 +7828,7 @@
                     "multipliers": {
                         "meleeDmg": 2
                     },
+                    "stamina": 3.2,
                     "cd": 8
                 }
             },
@@ -7777,7 +7850,8 @@
                     "base": 305,
                     "multipliers": {
                         "meleeDmg": 1.4
-                    }
+                    },
+                    "stamina": 3.6
                 }
             },
             "cost": {
@@ -7798,7 +7872,8 @@
                     "base": 118,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2
                 }
             },
             "cost": {
@@ -7820,7 +7895,8 @@
                     "base": 456,
                     "multipliers": {
                         "meleeDmg": 1.4
-                    }
+                    },
+                    "stamina": 3.6
                 },
                 "Charge Slam": {
                     "types": ["meleeDmg"],
@@ -7828,6 +7904,7 @@
                     "multipliers": {
                         "meleeDmg": 2
                     },
+                    "stamina": 4.5,
                     "cd": 16
                 }
             },
@@ -7850,7 +7927,8 @@
                     "base": 212,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.4
                 },
                 "Cleave Strike": {
                     "types": ["meleeDmg"],
@@ -7858,6 +7936,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 1,
                     "cd": 4
                 }
             },
@@ -7880,7 +7959,8 @@
                     "base": 290,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.75
                 },
                 "Jump Strike": {
                     "types": ["meleeDmg"],
@@ -7888,6 +7968,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 3.2,
                     "cd": 8
                 }
             },
@@ -7910,7 +7991,8 @@
                     "base": 525,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Blade of Rage (swing)": {
                     "types": ["meleeDmg"],
@@ -7925,6 +8007,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 3.3,
                     "cd": 28
                 }
             },
@@ -7947,7 +8030,8 @@
                     "base": 330,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.7
                 },
                 "Echo Punch": {
                     "types": ["meleeDmg"],
@@ -7955,6 +8039,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 3,
                     "cd": 10
                 }
             },
@@ -7977,7 +8062,8 @@
                     "base": 420,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Siphon Spin (spin)": {
                     "types": ["meleeDmg"],
@@ -7992,6 +8078,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 3.5,
                     "cd": 6
                 }
             },
@@ -8014,21 +8101,24 @@
                     "base": 530,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.8
                 },
                 "Spear Stance": {
                     "types": ["meleeDmg"],
                     "base": 530,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3
                 },
                 "Drift Stance": {
                     "types": ["meleeDmg"],
                     "base": 320,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.6
                 },
                 "Charged Drift Stance": {
                     "types": ["meleeDmg"],
@@ -8036,6 +8126,7 @@
                     "multipliers": {
                         "meleeDmg": 2
                     },
+                    "stamina": 1.6,
                     "cd": 2
                 }
             },
@@ -8058,7 +8149,8 @@
                     "base": 365,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3
                 },
                 "Ultra Charge": {
                     "types": ["meleeDmg"],
@@ -8066,6 +8158,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 3.2,
                     "cd": 14
                 }
             },
@@ -8088,7 +8181,8 @@
                     "base": 295,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 2.6
                 },
                 "Magic Smash": {
                     "types": ["magicDmg"],
@@ -8096,6 +8190,7 @@
                     "multipliers": {
                         "magicDmg": 1.5
                     },
+                    "stamina": 3,
                     "cd": 8
                 }
             },
@@ -8118,7 +8213,8 @@
                     "base": 430,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 3.25
                 },
                 "Blessed Dive": {
                     "types": ["meleeDmg"],
@@ -8126,6 +8222,7 @@
                     "multipliers": {
                         "meleeDmg": 1
                     },
+                    "stamina": 3.3,
                     "cd": 8
                 }
             },
@@ -8148,7 +8245,8 @@
                     "base": 375,
                     "multipliers": {
                         "meleeDmg": 1
-                    }
+                    },
+                    "stamina": 1.75
                 },
                 "Void Needle": {
                     "types": ["armor", "meleeDmg"],
@@ -8178,21 +8276,24 @@
                     "base": 30,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 1.8
                 },
                 "Spiked Crossbow Bolt": {
                     "types": ["rangedDmg"],
                     "base": 60,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 1.8
                 },
                 "Royal Crossbow Bolt": {
                     "types": ["rangedDmg"],
                     "base": 90,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 1.8
                 }
             },
             "cost": {
@@ -8214,7 +8315,8 @@
                     "base": 465,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 2.4
                 },
                 "Dragon's Charge": {
                     "types": ["rangedDmg"],
@@ -8222,6 +8324,7 @@
                     "multipliers": {
                         "rangedDmg": 1
                     },
+                    "stamina": 2.5,
                     "cd": 12
                 }
             },
@@ -8243,7 +8346,8 @@
                     "base": 260,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 1.5
                 }
             },
             "cost": {
@@ -8265,7 +8369,8 @@
                     "base": 100,
                     "multipliers": {
                         "rangedDmg": 0.33
-                    }
+                    },
+                    "stamina": 1.3
                 },
                 "Spinboost": {
                     "types": ["rangedDmg"],
@@ -8273,6 +8378,7 @@
                     "multipliers": {
                         "rangedDmg": 1
                     },
+                    "stamina": 2.5,
                     "cd": 6
                 }
             },
@@ -8294,7 +8400,8 @@
                     "base": 430,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 3.2
                 }
             },
             "cost": {
@@ -8316,7 +8423,8 @@
                     "base": 420,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 2.9
                 },
                 "Gatling Mode": {
                     "types": ["rangedDmg"],
@@ -8324,7 +8432,7 @@
                     "multipliers": {
                         "rangedDmg": 1
                     },
-                    "cd": 3
+                    "stamina": 1.8
                 }
             },
             "cost": {
@@ -8345,7 +8453,8 @@
                     "base": 200,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 3
                 }
             },
             "cost": {
@@ -8366,7 +8475,8 @@
                     "base": 300,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 3.2
                 }
             },
             "cost": {
@@ -8387,7 +8497,8 @@
                     "base": 5,
                     "multipliers": {
                         "rangedDmg": 0.2
-                    }
+                    },
+                    "stamina": 1
                 }
             },
             "cost": {
@@ -8408,7 +8519,8 @@
                     "base": 140,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 3
                 }
             },
             "cost": {
@@ -8430,7 +8542,8 @@
                     "base": 500,
                     "multipliers": {
                         "rangedDmg": 1
-                    }
+                    },
+                    "stamina": 2.4
                 },
                 "Divine Shot": {
                     "types": ["rangedDmg"],
@@ -8461,7 +8574,8 @@
                     "multipliers": {
                         "magicDmg": 0.5,
                         "rangedDmg": 0.5
-                    }
+                    },
+                    "stamina": 2.4
                 },
                 "Caster Form": {
                     "types": ["magicDmg", "rangedDmg"],
@@ -8470,7 +8584,7 @@
                         "magicDmg": 0.5,
                         "rangedDmg": 0.5
                     },
-                    "cd": 3
+                    "stamina": 3.4
                 }
             },
             "cost": {
@@ -8493,7 +8607,8 @@
                     "multipliers": {
                         "magicDmg": 0.5,
                         "meleeDmg": 0.5
-                    }
+                    },
+                    "stamina": 1.55
                 },
                 "Eyeball of Reckoning": {
                     "types": ["magicDmg", "meleeDmg"],
@@ -8521,11 +8636,13 @@
             "abilities": {
                 "Basic Attack": {
                     "base": 175,
-                    "formula": "200% HB - 100% RB"
+                    "formula": "200% HB - 100% RB",
+                    "stamina": 1.6
                 },
                 "Blood Sap": {
                     "base": 175,
-                    "formula": "200% HB - 100% RB"
+                    "formula": "200% HB - 100% RB",
+                    "cd": 16
                 },
                 "+ HP per Blood Sap": {
                     "base": 87.5,
@@ -8554,7 +8671,8 @@
                     "multipliers": {
                         "magicDmg": 0.5,
                         "meleeDmg": 0.5
-                    }
+                    },
+                    "stamina": 1.65
                 },
                 "Magic Blitz (twirl)": {
                     "types": ["magicDmg", "meleeDmg"],
@@ -8587,7 +8705,8 @@
                         "magicDmg": 0.2,
                         "meleeDmg": 0.2,
                         "rangedDmg": 0.2
-                    }
+                    },
+                    "stamina": 1.3
                 },
                 "Fireball": {
                     "types": ["magicDmg", "meleeDmg", "rangedDmg"],
@@ -8597,6 +8716,7 @@
                         "meleeDmg": 0.2,
                         "rangedDmg": 0.2
                     },
+                    "stamina": 3.3,
                     "cd": 6
                 }
             },
@@ -8620,7 +8740,8 @@
                     "multipliers": {
                         "meleeDmg": 0.25,
                         "rangedDmg": 0.25
-                    }
+                    },
+                    "stamina": 1.3
                 },
                 "Fireball": {
                     "types": ["meleeDmg", "rangedDmg"],
@@ -8629,6 +8750,7 @@
                         "meleeDmg": 0.25,
                         "rangedDmg": 0.25
                     },
+                    "stamina": 3.3,
                     "cd": 6
                 }
             },
@@ -8652,7 +8774,8 @@
                     "multipliers": {
                         "magicDmg": 0.25,
                         "rangedDmg": 0.25
-                    }
+                    },
+                    "stamina": 1.3
                 },
                 "Fireball": {
                     "types": ["magicDmg", "rangedDmg"],
@@ -8661,6 +8784,7 @@
                         "magicDmg": 0.25,
                         "rangedDmg": 0.25
                     },
+                    "stamina": 3.3,
                     "cd": 6
                 }
             },
@@ -8684,7 +8808,8 @@
                     "multipliers": {
                         "magicDmg": 0.25,
                         "meleeDmg": 0.25
-                    }
+                    },
+                    "stamina": 1.3
                 },
                 "Fireball": {
                     "types": ["magicDmg", "meleeDmg"],
@@ -8693,6 +8818,7 @@
                         "magicDmg": 0.25,
                         "meleeDmg": 0.25
                     },
+                    "stamina": 3.3,
                     "cd": 6
                 }
             },
@@ -8717,7 +8843,8 @@
                         "magicDmg": 0.24,
                         "meleeDmg": 0.24,
                         "rangedDmg": 0.24
-                    }
+                    },
+                    "stamina": 1.3
                 },
                 "Fireball": {
                     "types": ["magicDmg", "meleeDmg", "rangedDmg"],
@@ -8727,6 +8854,7 @@
                         "meleeDmg": 0.24,
                         "rangedDmg": 0.24
                     },
+                    "stamina": 3.3,
                     "cd": 6
                 }
             },
@@ -8751,7 +8879,8 @@
                         "magicDmg": 0.24,
                         "meleeDmg": 0.24,
                         "rangedDmg": 0.24
-                    }
+                    },
+                    "stamina": 1.3
                 },
                 "Fireball": {
                     "types": ["magicDmg", "meleeDmg", "rangedDmg"],
@@ -8761,6 +8890,7 @@
                         "meleeDmg": 0.24,
                         "rangedDmg": 0.24
                     },
+                    "stamina": 3.3,
                     "cd": 6
                 }
             },
@@ -8785,7 +8915,8 @@
                         "magicDmg": 0.23,
                         "meleeDmg": 0.23,
                         "rangedDmg": 0.23
-                    }
+                    },
+                    "stamina": 1.3
                 },
                 "Fireball": {
                     "types": ["magicDmg", "meleeDmg", "rangedDmg"],
@@ -8795,6 +8926,7 @@
                         "meleeDmg": 0.23,
                         "rangedDmg": 0.23
                     },
+                    "stamina": 3.3,
                     "cd": 6
                 }
             },
@@ -8816,7 +8948,8 @@
                     "base": 720,
                     "multipliers": {
                         "rangedDmg": 0
-                    }
+                    },
+                    "stamina": 2
                 }
             },
             "cost": {
