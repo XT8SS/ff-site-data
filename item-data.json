@@ -6546,8 +6546,7 @@
                     "base": 50,
                     "multipliers": {
                         "magicDmg": 0.33
-                    },
-                    "stamina": 2
+                    }
                 },
                 "Solar Beam": {
                     "base": "260 + (100 * Charge)",
