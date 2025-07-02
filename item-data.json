@@ -8631,7 +8631,7 @@
         },
         "Pureblood Dagger": {
             "special": "Blood Sap",
-            "types": ["magicDmg"],
+            "types": ["magicDmg", "meleeDmg", "rangedDmg"],
             "abilities": {
                 "Basic Attack": {
                     "base": 175,
