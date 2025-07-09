@@ -8634,16 +8634,19 @@
             "types": ["magicDmg", "meleeDmg", "rangedDmg"],
             "abilities": {
                 "Basic Attack": {
+                    "types": ["magicDmg", "meleeDmg", "rangedDmg"],
                     "base": 175,
                     "formula": "200% HB - 100% RB",
                     "stamina": 1.6
                 },
                 "Blood Sap": {
+                    "types": ["magicDmg", "meleeDmg", "rangedDmg"],
                     "base": 175,
                     "formula": "200% HB - 100% RB",
                     "cd": 16
                 },
                 "+ HP per Blood Sap": {
+                    "types": ["magicDmg", "meleeDmg", "rangedDmg"],
                     "base": 87.5,
                     "formula": "(200% HB - 100% RB) / 2",
                     "cd": 16
