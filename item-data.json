@@ -8946,11 +8946,9 @@
             "types": [],
             "abilities": {
                 "Basic Attack": {
-                    "types": ["rangedDmg"],
+                    "types": [],
                     "base": 720,
-                    "multipliers": {
-                        "rangedDmg": 0
-                    },
+                    "multipliers": {},
                     "stamina": 2
                 }
             },
