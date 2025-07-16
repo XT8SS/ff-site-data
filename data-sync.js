@@ -1,7 +1,4 @@
-import {
-    AES,
-    enc,
-} from "https://cdn.jsdelivr.net/npm/crypto-js@4.2.0/index.min.js";
+import CryptoJS from "https://cdn.jsdelivr.net/npm/crypto-js@4.2.0/index.min.js";
 import {
     getApp,
     initializeApp,
@@ -94,14 +91,14 @@ export let checkSyncNeed = () => {
                     if (!oldEncryptedModeData) continue;
                     let decryptedModeData;
                     try {
-                        decryptedModeData = AES.decrypt(
+                        decryptedModeData = CryptoJS.AES.decrypt(
                             oldEncryptedModeData,
                             deprecatedUserId + 8
-                        ).toString(enc.Utf8);
+                        ).toString(CryptoJS.enc.Utf8);
                     } catch (err) {
                         continue;
                     }
-                    let newEncryptedModeData = AES.encrypt(
+                    let newEncryptedModeData = CryptoJS.AES.encrypt(
                         decryptedModeData,
                         uid + 581827
                     ).toString();
