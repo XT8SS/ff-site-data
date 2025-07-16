@@ -1,4 +1,4 @@
-import CryptoJS from "https://cdn.jsdelivr.net/npm/crypto-js@4.2.0/index.min.js";
+import CryptoJS from "https://cdn.jsdelivr.net/npm/crypto-js/+esm";
 import {
     getApp,
     initializeApp,
