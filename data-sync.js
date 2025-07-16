@@ -1,5 +1,11 @@
-import { AES, enc } from "crypto-js";
-import { getApp, initializeApp } from "firebase/app";
+import {
+    AES,
+    enc,
+} from "https://cdn.jsdelivr.net/npm/crypto-js@4.2.0/index.min.js";
+import {
+    getApp,
+    initializeApp,
+} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app-check.js";
 import {
     get,
     getDatabase,
@@ -7,7 +13,7 @@ import {
     query,
     ref,
     update,
-} from "firebase/database";
+} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-database.js";
 
 let LSitems = [
     "builds",
