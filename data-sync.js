@@ -2,7 +2,7 @@ import CryptoJS from "https://cdn.jsdelivr.net/npm/crypto-js/+esm";
 import {
     getApp,
     initializeApp,
-} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app-check.js";
+} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
 import {
     get,
     getDatabase,
