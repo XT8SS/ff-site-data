@@ -76,8 +76,7 @@ a {
         border 0.3s;
 }
 
-button:disabled,
-input:disabled {
+:is(button, input, textarea):disabled {
     opacity: 0.5;
     pointer-events: none;
 }
@@ -87,21 +86,18 @@ button:not(.no-bg),
     background-color: var(--dark-opacity-3);
 }
 
-button:not(.no-bg-change, .light-hover):hover,
-button:not(.no-bg-change, .light-hover):focus,
-a.bg-change:not(.no-bg-change, .light-hover):hover,
-a.bg-change:not(.no-bg-change, .light-hover):focus {
+:is(button, a.bg-change):not(.no-bg-change, .light-hover):hover,
+:is(button, a.bg-change):not(.no-bg-change, .light-hover):focus {
     background-color: var(--dark-opacity-2) !important;
 }
 
-button.light-hover:not(.no-bg-change):hover,
-button.light-hover:not(.no-bg-change):focus,
-a.bg-change.light-hover:not(.no-bg-change):hover,
-a.bg-change.light-hover:not(.no-bg-change):focus {
+:is(button, a.bg-change).light-hover:not(.no-bg-change):hover,
+:is(button, a.bg-change).light-hover:not(.no-bg-change):focus {
     background-color: var(--dark-opacity-3) !important;
 }
 
-input {
+input,
+textarea {
     all: unset;
     transition: background 0.2s, opacity 0.2s;
 }
@@ -110,7 +106,7 @@ input[type="checkbox"]:not(:disabled) {
     cursor: pointer;
 }
 
-input::placeholder {
+:is(input, textarea)::placeholder {
     color: var(--dark-opacity-2);
 }
 
