@@ -2,28 +2,28 @@
     "Site Developer": {
         "userList": ["xt"],
         "icon": {
-            "iconifyName": "solar:verified-check-bold",
+            "iconifyName": "tabler:rosette-discount-check-filled",
             "color": "#673ab7"
         }
     },
     "Game Developer": {
         "userList": ["spectrabox", "gorbachelli"],
         "icon": {
-            "iconifyName": "solar:verified-check-bold",
+            "iconifyName": "tabler:rosette-discount-check-filled",
             "color": "#b71c1c"
         }
     },
     "Contributor": {
         "userList": ["snowbayzel", "eturnes", "moonblasterbow", "tc_2"],
         "icon": {
-            "iconifyName": "solar:verified-check-bold",
+            "iconifyName": "tabler:rosette-discount-check-filled",
             "color": "#1565C0"
         }
     },
     "User": {
         "userList": [],
         "icon": {
-            "iconifyName": "mingcute:user-2-fill",
+            "iconifyName": "tabler:user-filled",
             "color": "black"
         }
     }
