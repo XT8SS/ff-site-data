@@ -419,7 +419,7 @@
     {
         "name": "Guardian Set",
         "loadout": {
-            "mainNO": {
+            "main": {
                 "head": "Guardian Helmet",
                 "body": "Guardian Torso",
                 "legs": "Guardian Legs",
@@ -962,7 +962,7 @@
     {
         "name": "Tower Armor Set",
         "loadout": {
-            "mainNO": {
+            "main": {
                 "body": "Tower Armor Platebody",
                 "legs": "Tower Armor Platelegs"
             }
@@ -1310,7 +1310,7 @@
     {
         "name": "The Drake's Set",
         "loadout": {
-            "mainNO": {
+            "main": {
                 "body": "The Drake's Shirt",
                 "legs": "The Drake's Pants"
             }
@@ -1515,7 +1515,7 @@
     {
         "name": "Adventurer's Set",
         "loadout": {
-            "mainNO": {
+            "main": {
                 "body": "Adventurer's Armor",
                 "legs": "Adventurer's Guard"
             }
