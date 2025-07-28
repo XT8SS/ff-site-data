@@ -1,0 +1,1608 @@
+[
+    {
+        "name": "Max Magic Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Otherworld Slug",
+                    "body": "True Spectral Vanguard Platebody",
+                    "legs": "True Spectral Vanguard Platelegs",
+                    "feet": "Guardian Lower Legs",
+                    "neck": "Tri-Color Necklace",
+                    "back": "Dreamnet",
+                    "ring": "Scorched Soul's Ring",
+                    "misc": "Brain Monocle"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Max Melee Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Fear",
+                    "body": "True Spectral Vanguard Platebody",
+                    "legs": "True Spectral Vanguard Platelegs",
+                    "feet": "Guardian Lower Legs",
+                    "neck": "Tri-Color Necklace",
+                    "back": "Emperor's Cape",
+                    "ring": "Scorched Soul's Ring",
+                    "misc": "Gold Antlers"
+                }
+            },
+            "alternatives": {
+                "equipment": {
+                    "misc": "Pirate Hook"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Max Ranged Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Gold",
+                    "body": "True Spectral Vanguard Platebody",
+                    "legs": "True Spectral Vanguard Platelegs",
+                    "feet": "Guardian Lower Legs",
+                    "neck": "Tri-Color Necklace",
+                    "back": "Ranger's Backpack",
+                    "ring": "Hightower Ring",
+                    "misc": "Brain Monocle"
+                }
+            },
+            "alternatives": {
+                "equipment": {
+                    "misc": "Xenoculous"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Max HP Regen Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Brickland",
+                    "body": "Romo Torso",
+                    "legs": "Romo Robo-Legs",
+                    "neck": "Vital Pendant",
+                    "back": "Meeting Remnant"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Max Endurance Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Propaganda Head",
+                    "body": "Platebody of a Forgotten Life",
+                    "legs": "Platelegs of a Forgotten Life",
+                    "feet": "Otherworld Boots",
+                    "ring": "Tough Green Ring"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Max Sight Range Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Illuminator's Hat",
+                    "body": "Illuminator's Top",
+                    "legs": "Illuminator's Pants",
+                    "neck": "Seer's Pendant II",
+                    "misc": "Big Orange Eyes"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Max Walkspeed Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Roadblocks Head",
+                    "body": "Roadblocks Torso",
+                    "legs": "Roadblocks Legs",
+                    "feet": "Spider Stilts",
+                    "neck": "Green Crystal Amulet",
+                    "back": "Meeting Remnant"
+                }
+            },
+            "alternatives": {
+                "equipment": {
+                    "feet": "Tag Red Lazer"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Max Jump Power Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Frog Costume #5 - Head",
+                    "body": "Frog Costume #5 - Torso",
+                    "legs": "Frog Costume #5 - Legs",
+                    "feet": "Clown Shoes",
+                    "neck": "Peapod Necklace",
+                    "misc": "Bunny Ears"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Max Ammo Return Bonus",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Mr. Techy Techy Head Protector",
+                    "body": "Broken Thumb Drillbit Emporium Chassis",
+                    "legs": "Robotic Biological Chemistry Legs",
+                    "misc": "Front Bullet Pack"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Bronze Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Bronze Helmet",
+                    "body": "Bronze Platebody",
+                    "legs": "Bronze Platelegs",
+                    "feet": "Bronze Boots"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Iron Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Iron Helmet",
+                    "body": "Iron Platebody",
+                    "legs": "Iron Platelegs",
+                    "feet": "Iron Boots"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Cobalt Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Cobalt Helmet",
+                    "body": "Cobalt Platebody",
+                    "legs": "Cobalt Platelegs",
+                    "feet": "Cobalt Boots"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Titanium Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Titanium Helmet",
+                    "body": "Titanium Platebody",
+                    "legs": "Titanium Platelegs",
+                    "feet": "Titanium Boots"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Gold Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Gold Helmet",
+                    "body": "Gold Platebody",
+                    "legs": "Gold Platelegs",
+                    "feet": "Gold Boots"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Onyx Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Onyx Helmet",
+                    "body": "Onyx Platebody",
+                    "legs": "Onyx Platelegs",
+                    "feet": "Onyx Boots"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Blue Wizard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Blue Wizard Hat",
+                    "body": "Blue Wizard Robe Top",
+                    "legs": "Blue Wizard Robe Bottom"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Brash Knight Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Brash Knight Helmet",
+                    "body": "Brash Knight Platebody",
+                    "legs": "Brash Knight Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Celestial Moon Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Celestial Moon Hat",
+                    "body": "Celestial Moon Top",
+                    "legs": "Celestial Robe Bottom"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Courting Knight Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Courting Knight Helmet",
+                    "body": "Courting Knight Torso",
+                    "legs": "Courting Knight Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Dark Hunter Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Dark Hunter Hat",
+                    "body": "Dark Hunter Top",
+                    "legs": "Dark Hunter Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Darkwood Warrior Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Darkwood Warrior Helmet",
+                    "body": "Darkwood Warrior Platebody",
+                    "legs": "Darkwood Warrior Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Furnace Mummy Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Furnace Mummy Helmet",
+                    "body": "Furnace Mummy Platebody",
+                    "legs": "Furnace Mummy Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Galaxy Wizard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Galaxy Wizard Hat",
+                    "body": "Galaxy Wizard Torso",
+                    "legs": "Galaxy Wizard Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Guardian Set",
+        "loadout": {
+            "mainNO": {
+                "head": "Guardian Helmet",
+                "body": "Guardian Torso",
+                "legs": "Guardian Legs",
+                "feet": "Guardian Lower Legs"
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Hardened Bronze Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Hardened Bronze Helmet",
+                    "body": "Hardened Bronze Platebody",
+                    "legs": "Hardened Bronze Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Hedge Knight Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Hedge Knight Helmet",
+                    "body": "Hedge Knight Torso",
+                    "legs": "Hedge Knight Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Illuminator's Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Illuminator's Hat",
+                    "body": "Illuminator's Top",
+                    "legs": "Illuminator's Pants"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Ivory Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Ivory Helmet",
+                    "body": "Ivory Chestpiece",
+                    "legs": "Ivory Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Jade Assassin's Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Jade Assassin's Mask",
+                    "body": "Jade Assassin's Torso",
+                    "legs": "Jade Assassin's Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Lagoon Spirit Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Lagoon Spirit Head",
+                    "body": "Lagoon Spirit Torso",
+                    "legs": "Lagoon Spirit Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Mortmud Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Mortmud Hood",
+                    "body": "Mortmud Wraps",
+                    "legs": "Mortmud Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Patched Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Patched Helmet",
+                    "body": "Patched Torso",
+                    "legs": "Patched Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Razed General Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Razed General Hat",
+                    "body": "Razed General Torso",
+                    "legs": "Razed General Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Red Wizard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Red Wizard Hat",
+                    "body": "Red Wizard Robe Top",
+                    "legs": "Red Wizard Robe Bottom"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Riveted Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Riveted Helmet",
+                    "body": "Riveted Torso",
+                    "legs": "Riveted Shorts"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Skeleton Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Skull",
+                    "body": "Skeleton Torso",
+                    "legs": "Skeleton Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Spikeout Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Spikeout Helmet",
+                    "body": "Spikeout Chestpiece",
+                    "legs": "Spikeout Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Springtwig Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Springtwig Eye",
+                    "body": "Springtwig Torso",
+                    "legs": "Springtwig Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Tomb Prowler Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Tomb Prowler Hat",
+                    "body": "Tomb Prowler Torso",
+                    "legs": "Tomb Prowler Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Void Monster Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Void Monster Mask",
+                    "body": "Void Monster Torso",
+                    "legs": "Void Monster Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Woodland Ranger Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Woodland Ranger Hat",
+                    "body": "Woodland Ranger Torso",
+                    "legs": "Woodland Ranger Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Zhuulaczar Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Zhuulaczar Crown",
+                    "body": "Zhuulaczar Armored Body",
+                    "legs": "Zhuulaczar Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Chasm Magus Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Chasm Magus Hat",
+                    "body": "Chasm Magus Robe Top",
+                    "legs": "Chasm Magus Robe Bottom"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Crabsuit Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Crabsuit Headgear",
+                    "body": "Crabsuit Top",
+                    "legs": "Crabsuit Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Gardendweller Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Gardendweller's Hat",
+                    "body": "Gardendweller Top",
+                    "legs": "Gardendweller Pants"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Gauntlet Fury Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Gauntlet Fury Helmet",
+                    "body": "Gauntlet Fury Platebody",
+                    "legs": "Gauntlet Fury Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Guild Knight Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Guild Knight Helmet",
+                    "body": "Guild Knight Platebody",
+                    "legs": "Guild Knight Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Knight's Army Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Knight's Army Core",
+                    "body": "Knight's Army Platebody",
+                    "legs": "Knight's Army Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Odewig Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Odewig Helmet",
+                    "body": "Odewig Armor",
+                    "legs": "Odewig Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Pettyganger's Parade Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Pettyganger's Parade Mask",
+                    "body": "Pettyganger's Parade Suit Top",
+                    "legs": "Pettyganger's Parade Legwarmers"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Poison Construct Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Poison Construct Helmet",
+                    "body": "Poison Construct Torso",
+                    "legs": "Poison Construct Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Rotted King's Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Rotted King's Mask",
+                    "body": "Rotted King's Chestpiece",
+                    "legs": "Rotted King's Escort"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Spellbound Mage Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Spellbound Mage Hood",
+                    "body": "Spellbound Mage Battledress",
+                    "legs": "Spellbound Mage Skirt"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "The Earth King Regalia Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Earth King Regalia",
+                    "body": "Platebody of the Earth King Regalia",
+                    "legs": "Platelegs of the Earth King Regalia"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Forgotten Things Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "The Mask of Forgotten Things",
+                    "body": "The Armor of Forgotten Things",
+                    "legs": "The Platelegs of Forgotten Things"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "The Vengeful Visage Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "The Vengeful Visage",
+                    "body": "The Vengeful Visage Top",
+                    "legs": "The Vengeful Visage Bottoms"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Void Lord Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Void Lord Helmet",
+                    "body": "Void Lord Chestpiece",
+                    "legs": "Void Lord Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Tower Armor Set",
+        "loadout": {
+            "mainNO": {
+                "body": "Tower Armor Platebody",
+                "legs": "Tower Armor Platelegs"
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Wolfram Leader Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Wolfram Leader Helmet",
+                    "body": "Wolfram Leader Platebody",
+                    "legs": "Wolfram Leader Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "World Sculptor's Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "World Sculptor's Helmet",
+                    "body": "World Sculptor's Armor",
+                    "legs": "World Sculptor's Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Aquatic Explorer Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Aquatic Explorer Helmet",
+                    "body": "Aquatic Explorer Armor",
+                    "legs": "Aquatic Explorer Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Forgotten Life Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Helm of the Skater",
+                    "body": "Platebody of a Forgotten Life",
+                    "legs": "Platelegs of a Forgotten Life"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "New Voice Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "New Voice Helmet",
+                    "body": "New Voice Platebody",
+                    "legs": "New Voice Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Romo Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Romo Helmet",
+                    "body": "Romo Torso",
+                    "legs": "Romo Robo-Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Wisecrack Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Wisecrack Skull",
+                    "body": "Wisecrack Torso",
+                    "legs": "Wisecrack Leggings"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Woodwhack Legionnaire Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Woodwhack Legionnaire Helmet",
+                    "body": "Woodwhack Legionnaire Chestpiece",
+                    "legs": "Wooden Shorts"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Bedrock Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Bedrock Helmet",
+                    "body": "Bedrock Platebody",
+                    "legs": "Bedrock Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Corrupted Gold Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Corrupted Gold Helmet",
+                    "body": "Corrupted Gold Platebody",
+                    "legs": "Corrupted Gold Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Corrupted Onyx Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Corrupted Onyx Helmet",
+                    "body": "Corrupted Onyx Platebody",
+                    "legs": "Corrupted Onyx Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Falling Light Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Falling Light Mask",
+                    "body": "Falling Light Mage Robe Top",
+                    "legs": "Falling Light Mage Robe Bottoms"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Court Jester Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "body": "Court Jester Shirt",
+                    "legs": "Court Jester Pants"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Fire Spellbound Mage Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Fire Hood",
+                    "body": "Fire Spellbound Mage Top",
+                    "legs": "Fire Spellbound Mage Skirt"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Guttermouth Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Guttermouth Helmet",
+                    "body": "Guttermouth Platebody",
+                    "legs": "Guttermouth Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Ice Spellbound Mage Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Ice Hood",
+                    "body": "Ice Spellbound Mage Top",
+                    "legs": "Ice Spellbound Mage Skirt"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Nightmare Prowler Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Nightmare Prowler Hat",
+                    "body": "Nightmare Prowler Torso",
+                    "legs": "Nightmare Prowler Leggings"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Pantry Leech Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Pantry Leech Head",
+                    "body": "Pantry Leech Torso",
+                    "legs": "Pantry Leech Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Rising Dark Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Rising Dark Mask",
+                    "body": "Rising Dark Robe Top",
+                    "legs": "Rising Dark Robe Bottoms"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Roadblocks Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Roadblocks Head",
+                    "body": "Roadblocks Torso",
+                    "legs": "Roadblocks Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "U-Life Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "U-Life Helmet",
+                    "body": "U-Life Platebody",
+                    "legs": "U-Life Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "The Drake's Set",
+        "loadout": {
+            "mainNO": {
+                "body": "The Drake's Shirt",
+                "legs": "The Drake's Pants"
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Wired Fury Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Wired Fury Helmet",
+                    "body": "Wired Fury Platebody",
+                    "legs": "Wired Fury Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Green Spectral Vanguard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Green Spectral Vanguard Helmet",
+                    "body": "Green Spectral Vanguard Platebody",
+                    "legs": "Green Spectral Vanguard Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Blue Spectral Vanguard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Blue Spectral Vanguard Helmet",
+                    "body": "Blue Spectral Vanguard Platebody",
+                    "legs": "Blue Spectral Vanguard Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Purple Spectral Vanguard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Purple Spectral Vanguard Helmet",
+                    "body": "Purple Spectral Vanguard Platebody",
+                    "legs": "Purple Spectral Vanguard Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Black Spectral Vanguard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Black Spectral Vanguard Helmet",
+                    "body": "Black Spectral Vanguard Platebody",
+                    "legs": "Black Spectral Vanguard Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "White Spectral Vanguard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "White Spectral Vanguard Helmet",
+                    "body": "White Spectral Vanguard Platebody",
+                    "legs": "White Spectral Vanguard Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "True Spectral Vanguard Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "True Spectral Vanguard Helmet",
+                    "body": "True Spectral Vanguard Platebody",
+                    "legs": "True Spectral Vanguard Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Fire Guild Knight Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Fire Guild Knight Helmet",
+                    "body": "Fire Guild Knight Platebody",
+                    "legs": "Fire Guild Knight Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Water Guild Knight Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Water Guild Knight Helmet",
+                    "body": "Water Guild Knight Platebody",
+                    "legs": "Water Guild Knight Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Temple Fool Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Temple Fool Head",
+                    "body": "Temple Fool Torso",
+                    "legs": "Temple Fool Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Machine Rug Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Machine Rug Helmet",
+                    "body": "Machine Rug Platebody",
+                    "legs": "Machine Rug Platelegs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Drillbit Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Mr. Techy Techy Head Protector",
+                    "body": "Broken Thumb Drillbit Emporium Chassis",
+                    "legs": "Robotic Biological Chemistry Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Adventurer's Set",
+        "loadout": {
+            "mainNO": {
+                "body": "Adventurer's Armor",
+                "legs": "Adventurer's Guard"
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Frog Costume #1 Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Frog Costume #1 - Head",
+                    "body": "Frog Costume #1 - Torso",
+                    "legs": "Frog Costume #1 - Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Frog Costume #2 Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Frog Costume #2 - Head",
+                    "body": "Frog Costume #2 - Torso",
+                    "legs": "Frog Costume #2 - Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Frog Costume #3 Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Frog Costume #3 - Head",
+                    "body": "Frog Costume #3 - Torso",
+                    "legs": "Frog Costume #3 - Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Frog Costume #4 Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Frog Costume #4 - Head",
+                    "body": "Frog Costume #4 - Torso",
+                    "legs": "Frog Costume #4 - Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    },
+    {
+        "name": "Frog Costume #5 Set",
+        "loadout": {
+            "main": {
+                "equipment": {
+                    "head": "Frog Costume #5 - Head",
+                    "body": "Frog Costume #5 - Torso",
+                    "legs": "Frog Costume #5 - Legs"
+                }
+            }
+        },
+        "discovery": {
+            "public": false,
+            "tags": []
+        }
+    }
+]
