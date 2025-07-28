@@ -420,10 +420,12 @@
         "name": "Guardian Set",
         "loadout": {
             "main": {
-                "head": "Guardian Helmet",
-                "body": "Guardian Torso",
-                "legs": "Guardian Legs",
-                "feet": "Guardian Lower Legs"
+                "equipment": {
+                    "head": "Guardian Helmet",
+                    "body": "Guardian Torso",
+                    "legs": "Guardian Legs",
+                    "feet": "Guardian Lower Legs"
+                }
             }
         },
         "discovery": {
@@ -963,8 +965,10 @@
         "name": "Tower Armor Set",
         "loadout": {
             "main": {
-                "body": "Tower Armor Platebody",
-                "legs": "Tower Armor Platelegs"
+                "equipment": {
+                    "body": "Tower Armor Platebody",
+                    "legs": "Tower Armor Platelegs"
+                }
             }
         },
         "discovery": {
@@ -1311,8 +1315,10 @@
         "name": "The Drake's Set",
         "loadout": {
             "main": {
-                "body": "The Drake's Shirt",
-                "legs": "The Drake's Pants"
+                "equipment": {
+                    "body": "The Drake's Shirt",
+                    "legs": "The Drake's Pants"
+                }
             }
         },
         "discovery": {
@@ -1516,8 +1522,10 @@
         "name": "Adventurer's Set",
         "loadout": {
             "main": {
-                "body": "Adventurer's Armor",
-                "legs": "Adventurer's Guard"
+                "equipment": {
+                    "body": "Adventurer's Armor",
+                    "legs": "Adventurer's Guard"
+                }
             }
         },
         "discovery": {
