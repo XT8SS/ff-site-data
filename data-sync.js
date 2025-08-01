@@ -30,14 +30,13 @@ const fb_siteUserData = {
         measurementId: "G-ZHZM7JVTXY",
     },
     fb_calculator = {
-        apiKey: "AIzaSyAHVFTyCrEeHuOY9POiWkpA2mI70X5P1jQ",
-        authDomain: "fc-v3-8b3f9.firebaseapp.com",
-        databaseURL:
-            "https://fc-v3-8b3f9-default-rtdb.europe-west1.firebasedatabase.app",
-        projectId: "fc-v3-8b3f9",
-        storageBucket: "fc-v3-8b3f9.appspot.com",
-        messagingSenderId: "31377888705",
-        appId: "1:31377888705:web:3018d8fc0a07e867ec0b40",
+        apiKey: "AIzaSyC2Ub5r6sLzguGgsIGhXFFwL3zEpcOW4Yo",
+        authDomain: "fantastic-calculator-51453.firebaseapp.com",
+        projectId: "fantastic-calculator-51453",
+        storageBucket: "fantastic-calculator-51453.firebasestorage.app",
+        messagingSenderId: "414782650231",
+        appId: "1:414782650231:web:e1e20967a22db2b3981372",
+        measurementId: "G-96Y8V5G82G",
     };
 initializeApp(fb_siteUserData, "sud");
 initializeApp(fb_calculator, "fc");
@@ -45,12 +44,23 @@ initializeApp(fb_calculator, "fc");
 const sud_rtdb = getDatabase(getApp("sud")),
     fc_rtdb = getDatabase(getApp("fc"));
 
+let PUSH_CHARS =
+    "-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz";
+function decode(id) {
+    id = id.substring(0, 8);
+    let timestamp = 0;
+    for (let i = 0; i < id.length; i++) {
+        let c = id.charAt(i);
+        timestamp = timestamp * 64 + PUSH_CHARS.indexOf(c);
+    }
+    return timestamp;
+}
+
 export let checkSyncNeed = () => {
         for (let item of LSitems) if (localStorage.getItem(item)) return true;
     },
     syncUserData = async (username, uid) => {
         let userData = {
-            calculator: {},
             armory: {},
             frontierdle: {},
         };
@@ -66,17 +76,17 @@ export let checkSyncNeed = () => {
                 continue;
             }
             if (item === "builds") {
-                let sudBuilds = {};
                 for (let fcLSBuild in data) {
                     let id = data[fcLSBuild].id;
-                    let fcDBBuild = (
-                        await get(
-                            query(ref(fc_rtdb, `builds/${id}`), orderByKey())
-                        )
-                    ).val();
-                    sudBuilds[id] = await fcDBBuild;
+                    let timestamp = decode(id);
+                    id = "FC" + id;
+                    await update(ref(fc_rtdb, id), {
+                        creator: username,
+                        "visibility-timestamp": `private-${
+                            10000000000000 - timestamp
+                        }`,
+                    });
                 }
-                userData.calculator.builds = sudBuilds;
             } else if (item === "fa-trackItems") {
                 userData.armory.tracklist = data;
             } else if (item === "fd-currentGameData") {
