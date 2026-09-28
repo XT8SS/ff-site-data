@@ -103,7 +103,7 @@
             "colors": ["blue", "brown"],
             "outline": "yellow",
             "release": "fr",
-            "image": "f/f8/BlueWizardHat.png",
+            "image": "1/16/Blue_Wizard_Hat.png",
             "link": "Blue_Wizard_Set#Hat"
         },
         "Brash Knight Helmet": {
@@ -137,7 +137,7 @@
             "colors": ["pink", "purple", "yellow"],
             "outline": "purple",
             "release": "fr",
-            "image": "d/dc/CelestialMoonHat.png",
+            "image": "c/cf/Celestial_Moon_Hat.png",
             "link": "Celestial_Moon_Set#Hat"
         },
         "Courting Knight Helmet": {
@@ -169,7 +169,7 @@
             "colors": ["black"],
             "outline": "yellow",
             "release": "fr",
-            "image": "c/cb/DarkHunterHat.png",
+            "image": "5/51/Dark_Hunter_Hat.png",
             "link": "Dark_Hunter_Set#Hat"
         },
         "Darkwood Warrior Helmet": {
@@ -251,7 +251,7 @@
             "colors": ["black", "brown"],
             "outline": "green",
             "release": "fr",
-            "image": "2/21/HardenedBronzeHelmet.png",
+            "image": "3/3e/Hardened_Bronze_Helmet.png",
             "link": "Hardened_Bronze_Set#Helmet"
         },
         "Hedge Knight Helmet": {
@@ -330,7 +330,7 @@
             "colors": ["blue", "green", "yellow"],
             "outline": "purple",
             "release": "fr",
-            "image": "1/1a/LagoonSpiritHead.png",
+            "image": "6/68/Lagoon_Spirit_Head.png",
             "link": "Lagoon_Spirit_Set#Head"
         },
         "Mortmud Hood": {
@@ -361,7 +361,7 @@
             "colors": ["green", "gray"],
             "outline": "blue",
             "release": "fr",
-            "image": "a/a9/PatchedHelmet.png",
+            "image": "4/4e/Patched_Helmet.png",
             "link": "Patched_Set#Helmet"
         },
         "Razed General Hat": {
@@ -393,7 +393,7 @@
             "colors": ["brown", "red"],
             "outline": "yellow",
             "release": "fr",
-            "image": "e/e5/RedWizardHat.png",
+            "image": "f/f9/Red_Wizard_Hat.png",
             "link": "Red_Wizard_Set#Hat"
         },
         "Riveted Helmet": {
@@ -471,7 +471,7 @@
             "colors": ["blue", "red", "yellow"],
             "outline": "purple",
             "release": "fr",
-            "image": "7/71/TombProwlerHat.png",
+            "image": "1/1d/Tomb_Prowler_Hat.png",
             "link": "Tomb_Prowler_Set#Hat"
         },
         "Void Monster Mask": {
@@ -1372,7 +1372,7 @@
             "colors": ["black", "brown"],
             "outline": "blue",
             "release": "rn",
-            "image": "1/10/RoyalBronzeHelmet.png",
+            "image": "a/ae/Royal_Bronze_Helmet.png",
             "link": "Royal_Bronze_Helmet"
         },
         "Royal Iron Helmet": {
@@ -1387,7 +1387,7 @@
             "colors": ["black", "gray"],
             "outline": "blue",
             "release": "fr",
-            "image": "7/7c/RoyalIronHelmet.png",
+            "image": "e/eb/Royal_Iron_Helmet.png",
             "link": "Royal_Iron_Helmet"
         },
         "Royal Cobalt Helmet": {
@@ -1402,7 +1402,7 @@
             "colors": ["black", "blue"],
             "outline": "blue",
             "release": "fr",
-            "image": "0/0a/RoyalCobaltHelmet.png",
+            "image": "e/ec/Royal_Cobalt_Helmet.png",
             "link": "Royal_Cobalt_Helmet"
         },
         "Royal Titanium Helmet": {
@@ -1417,7 +1417,7 @@
             "colors": ["black", "blue", "white"],
             "outline": "blue",
             "release": "fr",
-            "image": "0/03/RoyalTitaniumHelmet.png",
+            "image": "0/03/Royal_Titanium_Helmet.png",
             "link": "Royal_Titanium_Helmet"
         },
         "Royal Gold Helmet": {
@@ -1447,7 +1447,7 @@
             "colors": ["black", "purple"],
             "outline": "blue",
             "release": "fr",
-            "image": "5/59/RoyalOnyxHelmet.png",
+            "image": "a/a0/Royal_Onyx_Helmet.png",
             "link": "Royal_Onyx_Helmet"
         },
         "Brickland": {
@@ -1514,7 +1514,7 @@
             "colors": ["brown", "gray", "red"],
             "outline": "purple",
             "release": "fr",
-            "image": "e/ec/SpiderHat.png",
+            "image": "e/ef/Corrupted_Wizard's_Helmet.png",
             "link": "Corrupted_Wizard's_Helmet"
         },
         "Cosmic Ghost Mask": {
@@ -1581,7 +1581,7 @@
             "colors": ["pink", "purple"],
             "outline": "purple",
             "release": "fr",
-            "image": "6/60/DarkGhostMask.png",
+            "image": "7/73/Dark_Ghost_Mask.png",
             "link": "Dark_Ghost_Mask"
         },
         "Detour Cone": {
@@ -1660,7 +1660,7 @@
             "colors": ["gray", "white"],
             "outline": "purple",
             "release": "fr",
-            "image": "e/eb/GhostMask.png",
+            "image": "f/f5/Ghost_Mask.png",
             "link": "Ghost_Mask"
         },
         "Gold": {
@@ -2429,7 +2429,7 @@
             "colors": ["gray", "yellow"],
             "outline": "green",
             "release": "fr",
-            "image": "2/2e/HardenedBronzePlatebody.png",
+            "image": "4/4d/Hardened_Bronze_Platebody.png",
             "link": "Hardened_Bronze_Set#Platebody"
         },
         "Hedge Knight Torso": {
@@ -2539,7 +2539,7 @@
             "colors": ["brown", "gray", "green"],
             "outline": "blue",
             "release": "fr",
-            "image": "7/7e/PatchedTorso.png",
+            "image": "1/17/Patched_Torso.png",
             "link": "Patched_Set#Torso"
         },
         "Razed General Torso": {
@@ -2649,7 +2649,7 @@
             "colors": ["blue", "red", "yellow"],
             "outline": "purple",
             "release": "fr",
-            "image": "0/06/TombProwlerTorso.png",
+            "image": "e/ea/Tomb_Prowler_Torso.png",
             "link": "Tomb_Prowler_Set#Torso"
         },
         "Void Monster Torso": {
@@ -3982,7 +3982,7 @@
             "colors": ["brown", "yellow"],
             "outline": "green",
             "release": "fr",
-            "image": "e/eb/HardenedBronzePlatelegs.png",
+            "image": "d/de/Hardened_Bronze_Platelegs.png",
             "link": "Hardened_Bronze_Set#Platelegs"
         },
         "Hedge Knight Legs": {
@@ -4092,7 +4092,7 @@
             "colors": ["brown", "gray", "green"],
             "outline": "blue",
             "release": "fr",
-            "image": "8/8f/PatchedLegs.png",
+            "image": "e/e5/Patched_Legs.png",
             "link": "Patched_Set#Legs"
         },
         "Razed General Legs": {
@@ -4124,7 +4124,7 @@
             "colors": ["red"],
             "outline": "yellow",
             "release": "fr",
-            "image": "2/2d/RedWizardRobeBottom.png",
+            "image": "3/3a/Red_Wizard_Robe_Bottom.png",
             "link": "Red_Wizard_Set#Bottom"
         },
         "Riveted Shorts": {
@@ -4202,7 +4202,7 @@
             "colors": ["blue", "red", "yellow"],
             "outline": "purple",
             "release": "fr",
-            "image": "9/99/TombProwlerLegs.png",
+            "image": "e/e6/Tomb_Prowler_Legs.png",
             "link": "Tomb_Prowler_Set#Legs"
         },
         "Void Monster Legs": {
@@ -4410,7 +4410,7 @@
             "colors": ["black", "purple"],
             "outline": "purple",
             "release": "ow",
-            "image": "c/ca/Poison_Construct_Legs_Large.png",
+            "image": "f/f3/Poison_Construct_Legs.png",
             "link": "Poison_Construct_Set#Legs"
         },
         "Rotted King's Escort": {
@@ -5432,7 +5432,7 @@
             "colors": ["blue"],
             "outline": "yellow",
             "release": "fr",
-            "image": "a/aa/BlackSupershoes.png",
+            "image": "9/91/Black_Supershoes.png",
             "link": "Black_Supershoes"
         },
         "Clown Shoes": {
@@ -6043,7 +6043,7 @@
             "colors": ["white"],
             "outline": "green",
             "release": "fr",
-            "image": "4/45/Antler.png",
+            "image": "1/14/Antlers.png",
             "link": "Antlers"
         },
         "Big Orange Eyes": {
@@ -6455,7 +6455,7 @@
             "colors": ["brown", "orange", "red", "yellow"],
             "outline": "yellow",
             "release": "fr",
-            "image": "b/b3/FiresoulSpellbook.png",
+            "image": "1/13/Firesoul_Spellbook.png",
             "link": "Firesoul_Spellbook"
         },
         "Frontier Spellbook": {
@@ -7513,7 +7513,7 @@
             "colors": ["blue", "gray", "yellow"],
             "outline": "purple",
             "release": "fr",
-            "image": "2/2e/Fantastic_Sword.png",
+            "image": "2/2a/Fantastic_Greatword.png",
             "link": "Fantastic_Greatsword"
         },
         "Featherblade": {
@@ -7838,7 +7838,7 @@
             "colors": ["blue", "brown", "gray"],
             "outline": "green",
             "release": "fr",
-            "image": "f/fc/Hooked_Scythe.png",
+            "image": "5/5b/Hook_Scythe.png",
             "link": "Hook_Scythe"
         },
         "Inferno Hammer": {
